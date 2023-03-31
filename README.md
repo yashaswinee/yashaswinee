@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashaswinee
-- 👀 I’m getting started wtih coding jorney 
+- 👀 Studying in IIIT-H
 - 🌱 I’m currently learning cpp 
 
 <!---
