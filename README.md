@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yashaswinee
 - 👀 Studying in IIIT-H
-- 🌱 I’m currently learning cpp
-- currently, creating a lite version of os
+- Interested to learn about llm 
 
 <!---
 yashaswinee/yashaswinee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
